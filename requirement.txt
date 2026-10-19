@@ -1,0 +1,10 @@
+flask==2.3.3
+flask-socketio==5.3.6
+python-socketio==5.9.0
+flask-cors==4.0.0
+websocket-client==1.9.2
+Pillow==12.3.0
+# --- voice + video calls (required on EVERY laptop that uses them) ---
+PyAudio==0.2.14
+opencv-python
+numpy
